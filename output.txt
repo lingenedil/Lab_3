@@ -1,0 +1,40 @@
+Station Name: Philadelphia, Philadelphia International Airport
+Temperature: 8
+Latitude: 3987.0
+Longitude: -7523.0
+Date/Time: 2014-11-08 22:54:00
+Humidity: 58
+Clouds: overcast
+
+Station Name: Birmingham / Airport
+Temperature: 6
+Latitude: 5247.0
+Longitude: -175.0
+Date/Time: 2014-11-08 22:50:00
+Humidity: 93
+Clouds: no clouds detected
+
+Station Name: Amsterdam Airport Schiphol
+Temperature: 9
+Latitude: 5232.0
+Longitude: 478.0
+Date/Time: 2014-11-08 22:55:00
+Humidity: 87
+Clouds: clouds and visibility OK
+
+Station Name: Dublin Airport
+Temperature: 7
+Latitude: 5342.0
+Longitude: -630.0
+Date/Time: 2014-11-08 23:00:00
+Humidity: 93
+Clouds: few clouds
+
+Station Name: Baltimore, Baltimore-Washington International Airport
+Temperature: 8
+Latitude: 3917.0
+Longitude: -7668.0
+Date/Time: 2014-11-08 22:54:00
+Humidity: 47
+Clouds: overcast
+
